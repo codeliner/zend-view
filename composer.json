@@ -16,7 +16,8 @@
         "php": ">=5.5",
         "zendframework/zend-eventmanager": "~2.5",
         "zendframework/zend-loader": "~2.5",
-        "zendframework/zend-stdlib": "~2.5"
+        "zendframework/zend-stdlib": "~2.5",
+	"zendframework/zend-filter": "~2.5"
     },
     "require-dev": {
         "zendframework/zend-authentication": "~2.5",
